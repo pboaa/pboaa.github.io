@@ -25,18 +25,13 @@ const sections: Section[] = [
     links: [
       {
         title: "Irodori-Tools-Claude",
-        desc: "",
+        desc: "生成と厳選",
         href: "https://pboaa.github.io/irodori-tools-claude/",
       },
       {
         title: "Chronicle-Claude",
-        desc: "",
+        desc: "記録と統計",
         href: "https://github.com/pboaa/chronicle-updates/releases",
-      },
-      {
-        title: "Peach-3D-Claude",
-        desc: "",
-        href: "https://pboaa.github.io/peach-3d-claude/",
       },
     ],
   },
@@ -45,10 +40,16 @@ const sections: Section[] = [
     links: [
       {
         title: "Gacha",
-        desc: "",
+        desc: "ガチャと放置",
         href: "https://aa-crafts-test.web.app/",
       },
+      {
+        title: "Peach-3D-Claude",
+        desc: "箱と桃",
+        href: "https://pboaa.github.io/peach-3d-claude/",
+      },
     ],
+
   },
 ]
 
